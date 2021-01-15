@@ -1,0 +1,19 @@
+{
+  "name": "clean-tdd-node-api",
+  "version": "1.0.0",
+  "description": "Clean Architecture and TDD NodeJs Api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristianovelkan/clean-tdd-node-api.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristianovelkan/clean-tdd-node-api/issues"
+  },
+  "homepage": "https://github.com/cristianovelkan/clean-tdd-node-api#readme"
+}
